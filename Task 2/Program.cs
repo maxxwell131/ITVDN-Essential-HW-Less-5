@@ -17,6 +17,14 @@ namespace Task_2
         */
         static void Main(string[] args)
         {
+            MymyArray ar = new MymyArray(8);
+
+            ar.MinMax();
+            ar.Average();
+            ar.Odd();
+
+            // Delay.
+            Console.ReadKey();
         }
     }
 }

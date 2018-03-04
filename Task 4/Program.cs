@@ -25,6 +25,7 @@ namespace Task_4
 
         static void Main(string[] args)
         {
+
         }
     }
 }
